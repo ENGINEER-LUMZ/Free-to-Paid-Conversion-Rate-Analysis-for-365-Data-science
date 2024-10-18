@@ -45,3 +45,7 @@ The sum of all such durations by
 The count of these durations, or alternatively, the number of students who have made a purchase.
 
 Named the field av_watch_purch.
+
+The dataset I worked with includes three tables storing information about students’ registration dates, engagement dates, and subscription purchase dates.
+
+The interpretation of the metrics obtained has also been attached in a word ducument file. In it shed more light on the analysis.
